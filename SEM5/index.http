@@ -1,0 +1,14 @@
+GET https://reqres.in/api/users
+
+###
+
+GET https://doramatv.live/beguchii_chelovek__A202f1d/series142
+
+###
+
+POST https://reqres.in/api/users
+Content-Type: application/json
+{
+    "name": "Alyona",
+    "number": "55976549"
+}
